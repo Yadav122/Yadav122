@@ -46,6 +46,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadav122&" alt="yadav122" /></p>
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Yadav122)
+![GitHub Snake](https://github.com/Yadav122/Yadav122/blob/output/github-contribution-grid-snake.svg)
+
 
 
 

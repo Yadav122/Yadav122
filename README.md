@@ -45,4 +45,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadav122&" alt="yadav122" /></p>
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Yadav122)
+
+
+
+
+
+
 

@@ -1,31 +1,95 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN1u1zGRtylQji2JsQ3mu2USZgvc-BuvareszH-aq9q4QSeNCQIOAD-agYnOYBa9bC0CefgvPU9DkUYTkh0NTlubmuHuXvrCwt6b2F3Iz9EIVIIPt5QYrVeNJfCQPRhQTGmkN9PC_fraM/s1600/image1.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
-<h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="Conding" width="400" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-
-
-
+<h3 align="center">A passionate AI & Software Developer from India</h3>
+<img align="right" alt="AI Agent" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM3MjYzNjI1OWZlODNjMmYyYjI5YmQzYTM0OTQ1MGZlMjA1NzljNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l0Iy88cWfPBK7g9zO/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadav122&label=Profile%20views&color=0e75b6&style=flat" alt="yadav122" /> </p>
 
 <p align="left"> <a href="https://twitter.com/harshkumar12884" target="blank"><img src="https://img.shields.io/twitter/follow/harshkumar12884?logo=twitter&style=for-the-badge" alt="harshkumar12884" /></a> </p>
 
-- 🔭 I’m currently working on [Medical chat bot](https://github.com/Yadav122/It-chatBot-using-llama2)
+## 🤖 About Me
+- 🔭 I'm currently working on [Synapse AI](https://github.com/Yadav122/Synapse-AI) - An intelligent AI guide
+- 🌱 I'm currently exploring **Generative AI, LLMs, Diffusion Models & DevOps methodologies**
+- 👯 I'm looking to collaborate on **AI Agents and Autonomous Systems**
+- 🧠 Passionate about building intelligent systems that can learn and adapt
+- 💼 Developing next-generation AI tools that enhance human capabilities
 
-- 🌱 I’m currently learning **Gen ai , Devops methodology tools**
+## 🚀 Projects
+- [Synapse AI](https://github.com/Yadav122/Synapse-AI) - An intelligent AI guide that helps users navigate through complex AI workflows
+- [More Projects on my Portfolio](https://yadav122.github.io/Portfolio/)
 
-- 👯 I’m looking to collaborate on [Expense Manger App](https://github.com/KDAHIYA09/TrackMyMoney)
+## 🧠 Generative AI
+<p align="left">
+<img src="https://img.shields.io/badge/LangChain-%232C8EBB.svg?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain"/>
+<img src="https://img.shields.io/badge/LangGraph-%23FF6F00.svg?style=for-the-badge&logo=accenture&logoColor=white" alt="langgraph"/>
+<img src="https://img.shields.io/badge/Multi_Agent_Systems-%23FF4B4B.svg?style=for-the-badge&logo=robot-framework&logoColor=white" alt="multi-agent systems"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-%234285F4.svg?style=for-the-badge&logo=openai&logoColor=white" alt="prompt engineering"/>
+<img src="https://img.shields.io/badge/RAG-%23FF9A00.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="rag"/>
+<img src="https://img.shields.io/badge/Hugging_Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black" alt="huggingface"/>
+<img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="openai"/>
+<img src="https://img.shields.io/badge/Claude.ai-%23000000.svg?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude.ai"/>
+</p>
 
-- 👨‍💻 All of my projects are available at [https://yadav122.github.io/Portfolio/](https://yadav122.github.io/Portfolio/)
+## 💻 Programming Languages
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="sql" width="40" height="40"/>
+</p>
 
-- 💬 Ask me about **Android**
+## 🗄️ Databases
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://img.shields.io/badge/PostgreSQL_Vector-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql vector"/>
+</p>
 
-- 📫 How to reach me **Kumarharsh74799@gmail.com**
+## 🤖 Machine Learning Models
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" alt="huggingface" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" alt="openai" width="40" height="40"/>
+<img src="https://img.shields.io/badge/Claude.ai_Models-%23000000.svg?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude models"/>
+</p>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FEXBuK3xIaZaNd9UALj17FF79wszsDZQ/view?usp=sharing](https://drive.google.com/file/d/1FEXBuK3xIaZaNd9UALj17FF79wszsDZQ/view?usp=sharing)
+## 🛠️ Tools & Frameworks
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" alt="fastapi" width="40" height="40"/>
+</p>
 
-- ⚡ Fun fact **I am funny**
+## ☁️ Cloud & DevOps
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+<img src="https://img.shields.io/badge/AWS_EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="aws ec2"/>
+<img src="https://img.shields.io/badge/AWS_RDS-%23527FFF.svg?style=for-the-badge&logo=amazon-rds&logoColor=white" alt="aws rds"/>
+<img src="https://img.shields.io/badge/AWS_ECR-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws ecr"/>
+<img src="https://img.shields.io/badge/AWS_Route_53-%23FF9900.svg?style=for-the-badge&logo=amazon-route53&logoColor=white" alt="aws route 53"/>
+<img src="https://img.shields.io/badge/AWS_SES-%23FF4F8B.svg?style=for-the-badge&logo=amazon-ses&logoColor=white" alt="aws ses"/>
+<img src="https://img.shields.io/badge/GitHub_CI/CD-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github actions"/>
+</p>
+
+## 🧠 Generative AI Experience
+- **LangChain & LangGraph** - Building complex AI workflows and agent systems
+- **Multi-Agent Systems** - Developing autonomous AI agents that collaborate to solve tasks
+- **Prompt Engineering** - Creating effective prompts for optimal AI performance
+- **RAG (Retrieval Augmented Generation)** - Implementing knowledge-based AI solutions
+- **Large Language Models** - Working with cutting-edge models from OpenAI, Hugging Face and Anthropic
+
+## 📫 How to reach me
+- Email: **Kumarharsh74799@gmail.com**
+- LinkedIn: [Harsh Kumar](https://linkedin.com/in/harsh-kumar-11b054212)
+- Resume: [View Resume](https://drive.google.com/file/d/1FEXBuK3xIaZaNd9UALj17FF79wszsDZQ/view?usp=sharing)
+
+## 📊 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadav122&show_icons=true&locale=en&layout=compact" alt="yadav122" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadav122&show_icons=true&locale=en" alt="yadav122" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadav122&" alt="yadav122" /></p>
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Yadav122)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,19 +99,6 @@
 <a href="https://instagram.com/ydv__harsh0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ydv__harsh0" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kumarharsh74799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kumarharsh74799" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadav122&show_icons=true&locale=en&layout=compact" alt="yadav122" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadav122&show_icons=true&locale=en" alt="yadav122" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadav122&" alt="yadav122" /></p>
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Yadav122)
-
-
 
 
 

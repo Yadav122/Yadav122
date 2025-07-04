@@ -1,8 +1,6 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN1u1zGRtylQji2JsQ3mu2USZgvc-BuvareszH-aq9q4QSeNCQIOAD-agYnOYBa9bC0CefgvPU9DkUYTkh0NTlubmuHuXvrCwt6b2F3Iz9EIVIIPt5QYrVeNJfCQPRhQTGmkN9PC_fraM/s1600/image1.gif)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
 <h3 align="center">A passionate AI & Software Developer from India</h3>
-<img align="right" alt="AI Agent" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM3MjYzNjI1OWZlODNjMmYyYjI5YmQzYTM0OTQ1MGZlMjA1NzljNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l0Iy88cWfPBK7g9zO/giphy.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadav122&label=Profile%20views&color=0e75b6&style=flat" alt="yadav122" /> </p>
 

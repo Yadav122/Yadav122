@@ -14,8 +14,8 @@
 - 💼 Developing next-generation AI tools that enhance human capabilities
 
 ## 🚀 Projects
-- [Synapse AI](https://github.com/Yadav122/Synapse-AI) - An intelligent AI guide that helps users navigate through complex AI workflows
-- [More Projects on my Portfolio](https://yadav122.github.io/Portfolio/)
+- [SynkPlan](https://github.com/Yadav122/Synapse-AI) - An intelligent AI guide that helps users navigate through complex AI workflows
+- [SynkPlan overview](https://synkplan.kumarharsh74799.workers.dev/)
 
 ## 🧠 Generative AI
 <p align="left">

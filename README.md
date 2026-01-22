@@ -188,20 +188,17 @@ Building cutting-edge AI solutions and experimenting with the latest in Generati
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yadav122&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
 
-<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Yadav122&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yadav122&theme=tokyonight&hide_border=true" height="170"/>
 
-  <br/><br/>
-
-  <!-- GitHub Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Yadav122&theme=tokyonight&no-frame=true&no-bg=true&column=6"/>
 
 </div>
+
+
+
+
 
 
 ---

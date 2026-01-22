@@ -19,10 +19,9 @@
 ## 🎯 Featured Projects
 
 ### [SynkPlan - Personal AI Projects](https://synkplan.kumarharsh74799.workers.dev/)
-Building cutting-edge AI solutions and experimenting with the latest in Generative AI technology
+Building cutting-edge AI solutions and experimenting with the latest in Generative AI technology.A next-generation study companion powered by AI. Manage tasks, track progress, focus better, and achieve your academic goals.
 
-### [Synapse AI](https://github.com/Yadav122/Synapse-AI)
-An intelligent AI guide helping users navigate complex AI workflows
+
 
 ---
 

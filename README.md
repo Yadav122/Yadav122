@@ -19,9 +19,7 @@
 ## 🎯 Featured Projects
 
 ### [SynkPlan - Personal AI Projects](https://synkplan.kumarharsh74799.workers.dev/)
-Building cutting-edge AI solutions and experimenting with the latest in Generative AI technology.A next-generation study companion powered by AI. Manage tasks, track progress, focus better, and achieve your academic goals.
-
-
+Building cutting-edge AI solutions and experimenting with the latest in Generative AI technology. A next-generation study companion powered by AI. Manage tasks, track progress, focus better, and achieve your academic goals.
 
 ---
 
@@ -67,6 +65,7 @@ Building cutting-edge AI solutions and experimenting with the latest in Generati
 ### Azure Services
 <p align="left">
 <img src="https://img.shields.io/badge/Azure_Blob-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="blob"/>
+<img src="https://img.shields.io/badge/Azure_Key_Vault-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="key-vault"/>
 <img src="https://img.shields.io/badge/Azure_Defender-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="defender"/>
 </p>
 
@@ -88,7 +87,7 @@ Building cutting-edge AI solutions and experimenting with the latest in Generati
 - **AWS Security**: KMS encryption, Cognito authentication, Malware Detection
 - **AWS Storage**: S3 bucket management and optimization
 - **Azure Storage**: Blob storage for large-scale data
-- **Azure Security**: Defender for threat protection
+- **Azure Security**: Key Vault for secrets management, Defender for threat protection
 - **Google Cloud**: Cloud Run for containerized apps, Cloud Scheduler for cron jobs
 - **Cloudflare R2**: Object storage with zero egress fees
 
@@ -110,21 +109,30 @@ Building cutting-edge AI solutions and experimenting with the latest in Generati
 
 ---
 
-## 🗄️ Databases & Vector Stores
+## 🗄️ Databases & Caching
 
 <p align="left">
 <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
 <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
 <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
 <img src="https://img.shields.io/badge/Milvus-%2300BFFF.svg?style=for-the-badge&logo=milvus&logoColor=white" alt="milvus"/>
+<img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/>
 <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="sql"/>
 </p>
 
+### Relational Databases
 - **PostgreSQL** - Advanced relational database with pgvector support
 - **MySQL** - Reliable SQL database for structured data
-- **MongoDB** - NoSQL for flexible document storage
-- **Milvus** - Vector database for AI embeddings and similarity search
 - **SQL** - Expert-level query optimization and database design
+
+### NoSQL & Document Stores
+- **MongoDB** - NoSQL for flexible document storage
+
+### Vector Databases
+- **Milvus** - Vector database for AI embeddings and similarity search
+
+### Caching & In-Memory Data Stores
+- **Redis** - High-performance caching, session management, and message brokering
 
 ---
 
@@ -157,7 +165,7 @@ Building cutting-edge AI solutions and experimenting with the latest in Generati
 - Deployed serverless applications using **AWS Lambda**
 - Managed containerized services with **AWS ECS** and **ECR**
 - Implemented secure authentication with **AWS Cognito**
-- Set up encryption and key management using **AWS KMS**
+- Set up encryption and key management using **AWS KMS** and **Azure Key Vault**
 - Configured DNS routing with **AWS Route 53**
 - Deployed containerized apps on **Google Cloud Run**
 - Configured **Azure Defender** for advanced threat protection
@@ -167,6 +175,7 @@ Building cutting-edge AI solutions and experimenting with the latest in Generati
 - Implemented asynchronous task processing with **Celery**
 - Designed scalable database architectures across SQL and NoSQL
 - Created efficient **Docker** containerization strategies
+- Implemented **Redis** for caching and real-time data processing
 
 ---
 
@@ -192,14 +201,7 @@ Building cutting-edge AI solutions and experimenting with the latest in Generati
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Yadav122&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-
-
 </div>
-
-
-
-
-
 
 ---
 

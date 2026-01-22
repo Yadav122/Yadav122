@@ -33,6 +33,7 @@ An intelligent AI guide helping users navigate complex AI workflows
 <img src="https://img.shields.io/badge/LangGraph-%23FF6F00.svg?style=for-the-badge&logo=accenture&logoColor=white" alt="langgraph"/>
 <img src="https://img.shields.io/badge/RAG_Systems-%23FF9A00.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="rag"/>
 <img src="https://img.shields.io/badge/Milvus-%2300BFFF.svg?style=for-the-badge&logo=milvus&logoColor=white" alt="milvus"/>
+<img src="https://img.shields.io/badge/Crawl4AI-%234B8BBE.svg?style=for-the-badge&logo=python&logoColor=white" alt="crawl4ai"/>
 <img src="https://img.shields.io/badge/Multi_Agent_Systems-%23FF4B4B.svg?style=for-the-badge&logo=robot-framework&logoColor=white" alt="multi-agent"/>
 <img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="openai"/>
 <img src="https://img.shields.io/badge/Claude.ai-%23000000.svg?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude"/>
@@ -42,6 +43,7 @@ An intelligent AI guide helping users navigate complex AI workflows
 ### Core GenAI Expertise
 - **LangChain & LangGraph** - Building complex AI workflows and agentic systems
 - **RAG with Milvus** - High-performance vector databases for intelligent retrieval
+- **Crawl4AI** - Advanced web scraping and data extraction for AI applications
 - **Multi-Agent Systems** - Orchestrating autonomous AI agents
 - **Prompt Engineering** - Optimizing LLM outputs for production use
 - **Large Language Models** - Integration with OpenAI, Claude, and Hugging Face models
